@@ -11,7 +11,6 @@ L'application de Gestion de Stock permet aux utilisateurs de suivre et de gérer
 - Suivre les niveaux de stock pour chaque produit.
 - Enregistrer les transactions de réception et d'expédition de produits.
 - Générer des rapports sur les niveaux de stock et les transactions.
-- 
 ## Prérequis
 
 - Java Development Kit (JDK) 8 ou supérieur
